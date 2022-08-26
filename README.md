@@ -1,2 +1,2 @@
-# Dotunolaoye.github.io
+# dotunolaoye.github.io
 My personal website
